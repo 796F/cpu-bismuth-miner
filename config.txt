@@ -1,0 +1,9 @@
+pool_ip=pool.coinsaurus.com
+miner_address=8831c5de1d4240686df532942a85947b7ac1e00d6f84856c293d0e12
+miner_name=opensource_miner
+miner_debug=True
+opencl_hash_count=500
+opencl_timeout=300
+opencl_thread_multiplier=2
+opencl_full_check=0
+opencl_disable_device=12
